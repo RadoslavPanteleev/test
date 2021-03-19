@@ -1,0 +1,28 @@
+{
+   "type": "pages",
+   "headline": "RAD Приложения",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "icon": "msx-white-soft:public",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Plex",
+		 "image": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon-32x32.png",
+         "action": "link:http://plex.tv/web/tv/opera"
+      }, 
+	  {
+         "title": "Kodi",
+		 "image": "https://kodi.tv/sites/default/themes/kodi/icon.png",
+         "action": "link:http://127.0.0.1:5555"
+      }, 
+	  {
+         "title": "Google",
+		 "image": "https://ssl.gstatic.com/gb/images/a/ea554714e7.png",
+         "action": "link:https://google.com"
+      }
+   ]
+}

@@ -1,0 +1,5 @@
+{
+    "name": "RAD App Store",
+    "version": "1.0.0",
+    "parameter": "content:http://{SERVER}/msx/app_store.json"
+}
